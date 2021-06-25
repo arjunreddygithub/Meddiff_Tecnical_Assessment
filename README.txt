@@ -2,3 +2,4 @@ In this above all we used python latest version  3.9 version and IDE used for Py
 To install python go www.python.org\download. after installing python we defult we get IDLE Editor inbuilt we can use as IDE ,or else we can any text editors.
 The files always saved with extension .py .
 To excute the file we can use cmd prompt or IDLE or any Editors here i  used Pycharm.
+In Student_management application   we dont used any data base for backend for data storing and retrive purpuse used CSV file .
